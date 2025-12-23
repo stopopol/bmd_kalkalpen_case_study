@@ -1,0 +1,1 @@
+_v2 files feature simplified geometries (single polygons with filled holes) to ease querying the GBIF api
