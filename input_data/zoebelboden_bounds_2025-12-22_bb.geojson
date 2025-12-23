@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "zoebelboden_bounds_2025-12-22_bb",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 14.435427899355, 47.837597720612003 ], [ 14.45277090273, 47.837597720612003 ], [ 14.45277090273, 47.846952770290002 ], [ 14.435427899355, 47.846952770290002 ], [ 14.435427899355, 47.837597720612003 ] ] ] } }
+]
+}
